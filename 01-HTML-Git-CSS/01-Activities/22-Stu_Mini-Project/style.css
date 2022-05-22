@@ -1,0 +1,57 @@
+li{
+    display: inline;
+    margin: 15px;
+    position: relative;
+}
+
+header, footer{
+    background-color: rgb(14, 74, 14);
+    height: 50px;
+    color:white;
+    border-bottom: 5px solid rgb(207, 160, 160);
+    border-width: 10px;
+    text-align: center;
+}
+
+ul{
+    text-align: right;
+    line-height: 50px
+}
+
+body{
+    background-color: rgb(251, 232, 236);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: -12px;
+}
+
+contact{
+text-align: center;
+}
+
+box{
+    display:block;
+    border: solid rgb(207, 160, 160);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 25px;
+    width: 400px;
+}
+
+.content{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    padding: 15px;
+    color:rgb(49, 11, 11)
+}
+
+.contact{
+    background-color: rgb(232, 212, 212);
+    padding: 10px;
+    border: solid rgb(207, 160, 160);
+}
+
+header{
+    margin: -5px
+}
